@@ -1,4 +1,4 @@
 url: web.bitglass.com
-persistance:
+persistence:
   type: local
   location: /mnt/files
