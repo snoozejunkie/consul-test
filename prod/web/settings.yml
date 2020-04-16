@@ -1,4 +1,4 @@
 persistance:
   type: s3
-  location: https://s3.amazon.com/new-bucket
+  location: https://s3.amazon.com/another-bucket
 
