@@ -1,3 +1,5 @@
+cache:
+  type: redis
 persistence:
   type: s3
   location: https://s3.amazon.com/another-bucket
