@@ -1,4 +1,4 @@
 url: web.bitglass.com
 persistence:
   type: local
-  location: /mnt/files
+  location: /mnt/files2
